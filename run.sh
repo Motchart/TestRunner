@@ -1,7 +1,7 @@
 #!bin/sh
 #========
 GITHUB_ACCOUNT=Motchart
-WS_DIR=NewWorkSpace
+WS_DIR=WorkSpace
 REPO_NAME=Title-Validation-csv-File
 APP_VERSION=1.3
 MAIN_CLASS=core.Selenium
